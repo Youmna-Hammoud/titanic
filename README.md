@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This project was completed as part of the **AI Engineers Program** supervised learning challenge for certification.
+This project was completed as part of the **AI Engineers Program** , Machine Learning Basics Course on supervised learning.
 
 ## Project Overview
 
